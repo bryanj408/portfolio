@@ -177,6 +177,16 @@ For when you consider padding, etc. */
   text-align: right;
 }
 
+.logo:hover {
+  opacity: 0.8;
+}
+
+.logo {
+  max-width: 100px;
+  max-height: 100px;
+  padding: 10px;
+}
+
 .page-footer {
   clear: both;
   display: -webkit-box;
