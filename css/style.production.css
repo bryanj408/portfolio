@@ -178,7 +178,7 @@ For when you consider padding, etc. */
 }
 
 .logo:hover {
-  opacity: 0.8;
+  opacity: 0.9;
 }
 
 .logo {
@@ -243,6 +243,11 @@ For when you consider padding, etc. */
   width: auto;
   min-height: auto;
   margin: 0;
+}
+
+.contact-form {
+  border-radius: 20%
+  margin: 0 auto;
 }
 
 /* End grid fallback for older browsers */
