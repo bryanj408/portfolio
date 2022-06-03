@@ -233,7 +233,7 @@ For when you consider padding, etc. */
     display: grid;
     -ms-grid-columns: 1fr 20px 1fr 20px 1fr;
     grid-template-columns: 1fr 1fr 1fr;
-    grid-gap: 20px;
+    grid-gap: 15px;
     margin: 0;
   }
 }
@@ -242,7 +242,7 @@ For when you consider padding, etc. */
   background-color: #9d9d9d;
   width: auto;
   min-height: auto;
-  margin: 0;
+  margin: 10px;
 }
 
 /* End grid fallback for older browsers */
